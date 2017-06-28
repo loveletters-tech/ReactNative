@@ -6,3 +6,6 @@ Common
 
 demo2  
 `$ npm install axios`
+
+demo3
+`$ npm install --save firebase`
