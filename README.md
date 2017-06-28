@@ -2,10 +2,10 @@
 
 ## Install
 Common
-    $ npm install
+`$ npm install`
 
 demo2
-    $ npm install axios
+`$ npm install axios`
 
 ## Licence
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
