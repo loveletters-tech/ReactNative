@@ -1,10 +1,10 @@
 # Study React Native
 
 ## Install
-Common
+Common 
 `$ npm install`
 
-demo2
+demo2 
 `$ npm install axios`
 
 ## Licence
